@@ -1,0 +1,5 @@
+{
+	"port": 5000,
+	"jwtSecret": "Wake up neo",
+	"mongoUri": "mongodb+srv://Neo:1111@cluster0.ltndv.mongodb.net/appretryWrites=true&w=majority"
+}
